@@ -1,5 +1,5 @@
-summary- install node
-         run npm start 
+summary- install node then
+         run npm start in terminal
 
 
 detailed-
